@@ -53,11 +53,11 @@ Nouns
 - with my family
 
 
-1. Build three libraries of phrase lists inside an object
-    - Subject
-    - Description
-    - Noun
-2. Build a loop to Execute with option to re-run
-3. On run Take a random word from group 1, group 2, group three and build a sentence
-4. Return the sentence
-5. prompt to re run or quit
+[]  Build three libraries of phrase lists inside an object
+    [] Subject
+    [] Description
+    [] Noun
+[] Build a loop to Execute with option to re-run
+[] On run Take a random word from group 1, group 2, group three and build a sentence
+[] Return the sentence
+[] prompt to re run or quit
